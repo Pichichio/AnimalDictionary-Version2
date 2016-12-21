@@ -1,0 +1,79 @@
+<resources>
+    <string name="app_name">CardViewDemo</string>
+    <string-array name="animal_name">
+        <item>"Bat"</item>
+        <item>"Bear Brown"</item>
+        <item>"Reindeer"</item>
+        <item>"Elephant"</item>
+        <item>"Orangutan"</item>
+        <item>"Hedgehog"</item>
+        <item>"Spotted Hyena"</item>
+        <item>"Cape Buffalo"</item>
+        <item>"Rhinoceros"</item>
+        <item>"Squirrel"</item>
+    </string-array>
+    <string-array name="mammal_area">
+        <item>"Rodrigues Island (off the east coast of Madagascar)"</item>
+        <item>"Northwestern North America, northern Asia, Europe, northern Africa, and the Middle East"</item>
+        <item>"Canada, Alaska, Greenland, northern Europe, and northern Asia"</item>
+        <item>"Parts of central, eastern, and southern Africa"</item>
+        <item>"Sumatra and Borneo"</item>
+        <item>"Alaska, Canada, U.S. to northern Mexico"</item>
+        <item>"Africa"</item>
+        <item>"Eastern and southern Africa"</item>
+        <item>"Eastern and southern Africa, India, Nepal, Vietnam, Malaysia, and Indonesia"</item>
+        <item>"South-central Washington, western Oregon, most of California, and western-central Nevada"</item>
+    </string-array>
+
+    <string-array name="mammal_habitat">
+        <item>"Moist tropical forest"</item>
+        <item>"Forests, open fields, mountain highlands, semi-dessert, and tundra"</item>
+        <item>"Tundra, mountains, and woodlands"</item>
+        <item>"Grasslands and open woodlands"</item>
+        <item>"Forests"</item>
+        <item>"Forests, woodlands, and sometimes deserts"</item>
+        <item>"Savanna, semi-desert, scrubland, and mountains"</item>
+        <item>"Open savannas and grasslands near permanent water sources"</item>
+        <item>"Open grasslands and floodplains, swamps, and rain forests"</item>
+        <item>"Open areas, including rocky outcrops, fields, pastures, and sparsely wooded hillsides"</item>
+    </string-array>
+
+    <string-array name="mammal_food">
+        <item>"Fruit, flowers, and sometimes insects"</item>
+        <item>"Roots, berries, insects, mammals, and fish"</item>
+        <item>"Leaves, lichen, fungi"</item>
+        <item>"Grass, leaves, and the bark of bushes and trees"</item>
+        <item>"Fruit, shoots, bark, leaves, seeds, and insects"</item>
+        <item>"Inner bark of trees, twigs, buds, fruits, and nuts"</item>
+        <item>"Small mammals, gazelles, antelope, zebras, ostrich eggs"</item>
+        <item>"Coarse grasses, leaves, herbs, and foliage"</item>
+        <item>"Grasses or leaves, depending on the species"</item>
+        <item>"Mostly plant material, including leaves, stems, flowers, bulbs, roots, seeds, fruits, and berries; it often damages grain, fruit, and nut crops."</item>
+    </string-array>
+
+    <string-array name="mammal_size">
+        <item>"Body is about 13 inches long; wingspan from 29 to 30 inches"</item>
+        <item>"6 to 9 1/2 feet long, 3 to 4 feet tall at the shoulder; males are bigger than females"</item>
+        <item>"4 to 7 feet long, 31 to 59 inches tall at the shoulder"</item>
+        <item>"Males can reach 13 feet tall and weigh up to 13,000 pounds; females are smaller"</item>
+        <item>"Males: 4 1/2 feet tall; females are a little smaller"</item>
+        <item>"Body measures 2 to 3 feet; tail may be 8 to 10 inches long"</item>
+        <item>"29 to 33 inches tall at the shoulder"</item>
+        <item>"Males can reach up to 11 feet long and weigh more than 2,000 pounds."</item>
+        <item>"5 to 13 feet long, depending on species"</item>
+        <item>"About 18 inches long; up to just over 2 pounds in weight"</item>
+    </string-array>
+
+    <string-array name="mammal_babies">
+        <item>"Pup clings to its mother until it grows too heavy to carry; flies on its own but stays near mother for about a year."</item>
+        <item>"Female gives birth to 2 cubs during the winter; they stay with their mother for about 2 years."</item>
+        <item>"A single calf is born in May or June and nurses for about 6 months."</item>
+        <item>"A calf weighs about 250 pounds at birth."</item>
+        <item>"Infants spend the first six to eight months clinging to their mother. Then they stay close to their moms until they are about eight years old."</item>
+        <item>"Porcupettes are born covered with soft quills that harden within a few days"</item>
+        <item>"Cubs are born in litters of 1 to 4 and weigh about 3 pounds each"</item>
+        <item>"Calves weigh from 50 to 90 pounds at birth."</item>
+        <item>"Females give birth to a single calf, which weighs over 100 pounds"</item>
+        <item>"An average litter is 5 to 8 pups"</item>
+    </string-array>
+</resources>
